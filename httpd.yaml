@@ -1,0 +1,4 @@
+---
+- hosts: webhosts
+  roles:
+    - robertdebock.httpd
